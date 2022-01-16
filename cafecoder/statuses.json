@@ -50,23 +50,23 @@
     "statuses": [
       {
         "position": "A",
-        "solved": false
+        "solved": true
       },
       {
         "position": "B",
-        "solved": false
+        "solved": true
       },
       {
         "position": "C",
-        "solved": false
+        "solved": true
       },
       {
         "position": "D",
-        "solved": false
+        "solved": true
       },
       {
         "position": "E",
-        "solved": false
+        "solved": true
       }
     ]
   },
