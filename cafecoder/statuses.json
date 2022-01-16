@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "szpp_scratch_2021_pra",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "szpp_scratch_2021",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "milk003",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "release_test",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "coffee001",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": true
+      },
+      {
+        "position": "B",
+        "solved": true
+      },
+      {
+        "position": "C",
+        "solved": true
+      },
+      {
+        "position": "D",
+        "solved": true
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": true
+      }
+    ]
+  },
+  {
+    "slug": "milk002",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "test003",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "tea005",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "test002",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "test001",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "joi_summer_seminner_2020",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "tea004",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      },
+      {
+        "position": "E",
+        "solved": false
+      },
+      {
+        "position": "F",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "tea002",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      },
+      {
+        "position": "D",
+        "solved": false
+      }
+    ]
+  },
+  {
+    "slug": "tea001",
+    "statuses": [
+      {
+        "position": "A",
+        "solved": false
+      },
+      {
+        "position": "B",
+        "solved": false
+      },
+      {
+        "position": "C",
+        "solved": false
+      }
+    ]
+  }
+]
