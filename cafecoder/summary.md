@@ -1,3 +1,3 @@
 | Remaining | All | Ratio | Progress |
 |----|----|----|----|
-| 44 | 63 | 69.84% | ![30%](https://progress-bar.dev/30?title=solved) |
+| 38 | 63 | 60.32% | ![40%](https://progress-bar.dev/40?title=solved) |

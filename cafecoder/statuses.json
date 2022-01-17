@@ -135,32 +135,32 @@
       {
         "position": "A",
         "ignored": false,
-        "solved": false
+        "solved": true
       },
       {
         "position": "B",
         "ignored": false,
-        "solved": false
+        "solved": true
       },
       {
         "position": "C",
         "ignored": false,
-        "solved": false
+        "solved": true
       },
       {
         "position": "D",
         "ignored": false,
-        "solved": false
+        "solved": true
       },
       {
         "position": "E",
         "ignored": false,
-        "solved": false
+        "solved": true
       },
       {
         "position": "F",
         "ignored": false,
-        "solved": false
+        "solved": true
       }
     ]
   },
