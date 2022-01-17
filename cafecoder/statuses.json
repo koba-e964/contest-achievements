@@ -4,19 +4,23 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": true,
         "solved": false
       },
       {
         "position": "B",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "C",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "D",
-        "solved": false
+        "ignored": false,
+        "solved": true
       }
     ]
   },
@@ -25,23 +29,28 @@
     "statuses": [
       {
         "position": "A",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "B",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "C",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "D",
-        "solved": false
+        "ignored": false,
+        "solved": true
       },
       {
         "position": "E",
-        "solved": false
+        "ignored": false,
+        "solved": true
       }
     ]
   },
@@ -50,22 +59,27 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": true
       }
     ]
@@ -75,7 +89,8 @@
     "statuses": [
       {
         "position": "A",
-        "solved": false
+        "ignored": false,
+        "solved": true
       }
     ]
   },
@@ -84,26 +99,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": true
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": true
       }
     ]
@@ -113,26 +134,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -142,18 +169,22 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -163,26 +194,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -192,26 +229,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -221,26 +264,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -250,22 +299,27 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -275,26 +329,32 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "E",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "F",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -304,18 +364,22 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": false,
         "solved": false
       },
       {
         "position": "D",
+        "ignored": false,
         "solved": false
       }
     ]
@@ -325,14 +389,17 @@
     "statuses": [
       {
         "position": "A",
+        "ignored": true,
         "solved": false
       },
       {
         "position": "B",
+        "ignored": true,
         "solved": false
       },
       {
         "position": "C",
+        "ignored": true,
         "solved": false
       }
     ]
