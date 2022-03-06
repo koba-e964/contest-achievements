@@ -1,17 +1,17 @@
-Solved: 1340, All: 1838
+Solved: 1340, All: 1857
 
 | |unsolved|whole|ratio|progress|
 |----|----|----|----|----|
-|**All**| 498 | 1838 | 27.095 %| ![73%](https://progress-bar.dev/73?title=All) |
+|**All**| 517 | 1857 | 27.841 %| ![72%](https://progress-bar.dev/72?title=All) |
 |**Level 1**| 27 | 184 | 14.674 %| ![85%](https://progress-bar.dev/85?title=Level+1++)|
-|**Level 1.5**| 64 | 197 | 32.487 %| ![68%](https://progress-bar.dev/68?title=Level+1.5)|
+|**Level 1.5**| 67 | 200 | 33.500 %| ![67%](https://progress-bar.dev/67?title=Level+1.5)|
 |**Level 2**| 80 | 310 | 25.806 %| ![74%](https://progress-bar.dev/74?title=Level+2++)|
-|**Level 2.5**| 84 | 248 | 33.871 %| ![66%](https://progress-bar.dev/66?title=Level+2.5)|
-|**Level 3**| 53 | 407 | 13.022 %| ![87%](https://progress-bar.dev/87?title=Level+3++)|
-|**Level 3.5**| 50 | 175 | 28.571 %| ![71%](https://progress-bar.dev/71?title=Level+3.5)|
-|**Level 4**| 48 | 187 | 25.668 %| ![74%](https://progress-bar.dev/74?title=Level+4++)|
-|**Level 4.5**| 44 | 60 | 73.333 %| ![27%](https://progress-bar.dev/27?title=Level+4.5)|
+|**Level 2.5**| 90 | 254 | 35.433 %| ![65%](https://progress-bar.dev/65?title=Level+2.5)|
+|**Level 3**| 56 | 409 | 13.692 %| ![86%](https://progress-bar.dev/86?title=Level+3++)|
+|**Level 3.5**| 53 | 179 | 29.609 %| ![70%](https://progress-bar.dev/70?title=Level+3.5)|
+|**Level 4**| 51 | 190 | 26.842 %| ![73%](https://progress-bar.dev/73?title=Level+4++)|
+|**Level 4.5**| 45 | 61 | 73.770 %| ![26%](https://progress-bar.dev/26?title=Level+4.5)|
 |**Level 5**| 35 | 57 | 61.404 %| ![39%](https://progress-bar.dev/39?title=Level+5++)|
 |**Level 5.5**| 6 | 6 | 100.000 %| ![0%](https://progress-bar.dev/0?title=Level+5.5)|
 |**Level 6**| 7 | 7 | 100.000 %| ![0%](https://progress-bar.dev/0?title=Level+6++)|
-|**Star**|1467.0 | 4931.0 |29.751%| ![70%](https://progress-bar.dev/70?title=Star) |
+|**Star**|1522.5 | 4987.0 |30.529%| ![69%](https://progress-bar.dev/69?title=Star) |
