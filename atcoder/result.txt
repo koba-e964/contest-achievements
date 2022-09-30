@@ -4,10 +4,10 @@ ABC:
 #Unsolved: 29
 Solved ratio: 97.55%
 ARC:
-#Contests: 136
-#Solved: 422
+#Contests: 137
+#Solved: 428
 #Unsolved: 147
-Solved ratio: 74.17%
+Solved ratio: 74.43%
 AGC:
 #Contests: 37
 #Solved: 157
