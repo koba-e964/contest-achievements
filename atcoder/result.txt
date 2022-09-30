@@ -5,9 +5,9 @@ ABC:
 Solved ratio: 97.55%
 ARC:
 #Contests: 136
-#Solved: 420
-#Unsolved: 149
-Solved ratio: 73.81%
+#Solved: 421
+#Unsolved: 148
+Solved ratio: 73.99%
 AGC:
 #Contests: 37
 #Solved: 157
