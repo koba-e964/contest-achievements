@@ -11,7 +11,7 @@ Solved: 1544, All: 2527
 |**Level 3.5**| 89 | 282 | 31.560%| ![68%](https://progress-bar.dev/68?title=Level+3.5)|
 |**Level 4**| 97 | 262 | 37.023%| ![63%](https://progress-bar.dev/63?title=Level+4++)|
 |**Level 4.5**| 68 | 85 | 80.000%| ![20%](https://progress-bar.dev/20?title=Level+4.5)|
-|**Level 5**| 57 | 80 | 71.250%| ![29%](https://progress-bar.dev/29?title=Level+5++)|
+|**Level 5**| 58 | 81 | 71.605%| ![28%](https://progress-bar.dev/28?title=Level+5++)|
 |**Level 5.5**| 7 | 7 | 100.000%| ![0%](https://progress-bar.dev/0?title=Level+5.5)|
-|**Level 6**| 6 | 7 | 85.714%| ![14%](https://progress-bar.dev/14?title=Level+6++)|
-|**Star**|2758.0 | 6875.0 |40.116%| ![60%](https://progress-bar.dev/60?title=Star) |
+|**Level 6**| 5 | 6 | 83.333%| ![17%](https://progress-bar.dev/17?title=Level+6++)|
+|**Star**|2757.0 | 6874.0 |40.108%| ![60%](https://progress-bar.dev/60?title=Star) |
