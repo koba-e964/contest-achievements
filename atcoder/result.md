@@ -1,5 +1,5 @@
 | ContestKind | #Contests | #Solved | #Unsolved | Solved ratio | |
 | - | - | - | - | - | - |
-| ABC | 317 | 1590 | 257 | 86.09% | ![86%](https://progress-bar.dev/86?title=Solved) |
+| ABC | 318 | 1592 | 262 | 85.87% | ![86%](https://progress-bar.dev/86?title=Solved) |
 | ARC | 147 | 452 | 183 | 71.18% | ![71%](https://progress-bar.dev/71?title=Solved) |
 | AGC | 37 | 157 | 61 | 72.02% | ![72%](https://progress-bar.dev/72?title=Solved) |
