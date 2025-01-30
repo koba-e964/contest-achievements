@@ -8,10 +8,10 @@ Solved: 1572, All: 2919
 |**Level 2**| 228 | 467 | 48.822%| ![51%](https://progress-bar.dev/51?title=Level+2++)|
 |**Level 2.5**| 267 | 444 | 60.135%| ![40%](https://progress-bar.dev/40?title=Level+2.5)|
 |**Level 3**| 175 | 621 | 28.180%| ![72%](https://progress-bar.dev/72?title=Level+3++)|
-|**Level 3.5**| 133 | 335 | 39.701%| ![60%](https://progress-bar.dev/60?title=Level+3.5)|
-|**Level 4**| 114 | 286 | 39.860%| ![60%](https://progress-bar.dev/60?title=Level+4++)|
+|**Level 3.5**| 134 | 336 | 39.881%| ![60%](https://progress-bar.dev/60?title=Level+3.5)|
+|**Level 4**| 113 | 285 | 39.649%| ![60%](https://progress-bar.dev/60?title=Level+4++)|
 |**Level 4.5**| 80 | 97 | 82.474%| ![18%](https://progress-bar.dev/18?title=Level+4.5)|
 |**Level 5**| 65 | 88 | 73.864%| ![26%](https://progress-bar.dev/26?title=Level+5++)|
 |**Level 5.5**| 7 | 7 | 100.000%| ![0%](https://progress-bar.dev/0?title=Level+5.5)|
 |**Level 6**| 5 | 6 | 83.333%| ![17%](https://progress-bar.dev/17?title=Level+6++)|
-|**Star**|3681.5 | 7895.5 |46.628%| ![53%](https://progress-bar.dev/53?title=Star) |
+|**Star**|3681.0 | 7895.0 |46.624%| ![53%](https://progress-bar.dev/53?title=Star) |
