@@ -2,4 +2,4 @@
 | - | - | - | - | - | - |
 | ABC | 379 | 1780 | 501 | 78.04% | ![78%](https://progress-bar.xyz/78?title=Solved) |
 | ARC | 147 | 452 | 183 | 71.18% | ![71%](https://progress-bar.xyz/71?title=Solved) |
-| AGC | 37 | 157 | 61 | 72.02% | ![72%](https://progress-bar.xyz/72?title=Solved) |
+| AGC | 38 | 159 | 64 | 71.30% | ![71%](https://progress-bar.xyz/71?title=Solved) |
