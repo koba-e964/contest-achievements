@@ -11,5 +11,5 @@ Solved ratio: 70.78%
 AGC:
 #Contests: 40
 #Solved: 161
-#Unsolved: 71
-Solved ratio: 69.40%
+#Unsolved: 72
+Solved ratio: 69.10%
