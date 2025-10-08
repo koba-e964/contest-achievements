@@ -1,13 +1,13 @@
 ABC:
 #Contests: 383
-#Solved: 1792
-#Unsolved: 517
-Solved ratio: 77.61%
+#Solved: 1793
+#Unsolved: 516
+Solved ratio: 77.65%
 ARC:
 #Contests: 149
-#Solved: 454
-#Unsolved: 191
-Solved ratio: 70.39%
+#Solved: 455
+#Unsolved: 190
+Solved ratio: 70.54%
 AGC:
 #Contests: 40
 #Solved: 161
