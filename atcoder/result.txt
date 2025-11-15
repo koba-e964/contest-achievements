@@ -1,15 +1,15 @@
 ABC:
-#Contests: 388
-#Solved: 1807
-#Unsolved: 537
-Solved ratio: 77.09%
+#Contests: 389
+#Solved: 1810
+#Unsolved: 541
+Solved ratio: 76.99%
 ARC:
-#Contests: 153
-#Solved: 464
-#Unsolved: 201
-Solved ratio: 69.77%
+#Contests: 154
+#Solved: 466
+#Unsolved: 203
+Solved ratio: 69.66%
 AGC:
-#Contests: 40
-#Solved: 161
-#Unsolved: 72
-Solved ratio: 69.10%
+#Contests: 41
+#Solved: 162
+#Unsolved: 77
+Solved ratio: 67.78%
