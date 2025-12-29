@@ -9,7 +9,7 @@ ARC:
 #Unsolved: 208
 Solved ratio: 69.41%
 AGC:
-#Contests: 42
-#Solved: 163
-#Unsolved: 81
-Solved ratio: 66.80%
+#Contests: 43
+#Solved: 165
+#Unsolved: 84
+Solved ratio: 66.27%
