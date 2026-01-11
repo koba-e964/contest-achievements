@@ -1,9 +1,9 @@
-Solved: 1650, All: 3291
+Solved: 1650, All: 3305
 
 | |unsolved|whole|ratio|progress|
 |----|----|----|----|----|
-|**All**| 1641 | 3291 | 49.863%| ![50%](https://progress-bar.xyz/50?title=All) |
-|**Level 1**| 129 | 296 | 43.581%| ![56%](https://progress-bar.xyz/56?title=All) |
+|**All**| 1655 | 3305 | 50.076%| ![50%](https://progress-bar.xyz/50?title=All) |
+|**Level 1**| 143 | 310 | 46.129%| ![54%](https://progress-bar.xyz/54?title=All) |
 |**Level 1.5**| 185 | 337 | 54.896%| ![45%](https://progress-bar.xyz/45?title=All) |
 |**Level 2**| 281 | 482 | 58.299%| ![42%](https://progress-bar.xyz/42?title=All) |
 |**Level 2.5**| 340 | 540 | 62.963%| ![37%](https://progress-bar.xyz/37?title=All) |
@@ -14,4 +14,4 @@ Solved: 1650, All: 3291
 |**Level 5**| 63 | 85 | 74.118%| ![26%](https://progress-bar.xyz/26?title=All) |
 |**Level 5.5**| 9 | 9 | 100.000%| ![0%](https://progress-bar.xyz/0?title=All) |
 |**Level 6**| 5 | 6 | 83.333%| ![17%](https://progress-bar.xyz/17?title=All) |
-|**Star**|4457.5 | 8920.0 |49.972%| ![50%](https://progress-bar.xyz/50?title=All) |
+|**Star**|4471.5 | 8934.0 |50.050%| ![50%](https://progress-bar.xyz/50?title=All) |
