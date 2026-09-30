@@ -1,8 +1,8 @@
 ABC:
-#Contests: 406
-#Solved: 1876
-#Unsolved: 594
-Solved ratio: 75.95%
+#Contests: 411
+#Solved: 1886
+#Unsolved: 619
+Solved ratio: 75.29%
 ARC:
 #Contests: 157
 #Solved: 478
